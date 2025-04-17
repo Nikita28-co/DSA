@@ -1,1 +1,2 @@
-print('hhello')
+print('hello')
+print ('TE Computer')
